@@ -1,18 +1,18 @@
-# PROJECTNAME
+# INCIDENT RESPONSE PLAN
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+
+The Lab project aimed to implement and evaluate technology-driven solution for mitigating phishing attacks, enhancing decion-making, promoting cybersecuiryt automation, and ensuring compliance to improve the organizations' security posture and operational efficiency. 
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+
+- Policy and Procedure Development
+- Incident Response and Mitigation
+- Post-Implementatoin maintenance procedures
+- Stakeholder engagement. 
+  
 
 ### Tools Used
 [Bullet Points - Remove this afterwards]
@@ -22,10 +22,10 @@ The Detection Lab project aimed to establish a controlled environment for simula
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+See attached link to Project report.
+[Nkum.Capstone tdocx.pdf](https://github.com/user-attachments/files/18482967/Nkum.Capstone.tdocx.pdf)
 
-Every screenshot should have some text explaining what the screenshot is about.
+Cyber Incident Response Flowchart <img width="525" alt="image" src="https://github.com/user-attachments/assets/2d15dfba-b95c-430f-b670-e7493dbef67d" />
 
-Example below.
 
-*Ref 1: Network Diagram*
+
